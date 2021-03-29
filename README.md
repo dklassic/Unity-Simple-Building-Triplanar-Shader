@@ -10,6 +10,6 @@ I think it might work with older versions because no fancy shader graph node is 
  You might want to remove the interior cubemap node if it doesn't fits your style though.
  
 ## Sample Images
-[img]https://imgur.com/iUyqNi5.jpg[/img]
-[img]https://imgur.com/k8qh7dX.jpg[/img]
-[img]https://imgur.com/uLmufX6.jpg[/img]
+![Day](https://imgur.com/iUyqNi5.jpg)
+![Dawn](https://imgur.com/k8qh7dX.jpg)
+![Night](https://imgur.com/uLmufX6.jpg)
