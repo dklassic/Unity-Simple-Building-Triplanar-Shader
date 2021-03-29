@@ -14,4 +14,4 @@ I think it might work with older versions because no fancy shader graph node is 
 ![Day](https://imgur.com/iUyqNi5.jpg)
 ![Dawn](https://imgur.com/k8qh7dX.jpg)
 ![Night](https://imgur.com/uLmufX6.jpg)
-The Skybox above was made using this amazing tutorial by ![Jannik Boysen](https://medium.com/@jannik_boysen/procedural-skybox-shader-137f6b0cb77c)
+The Skybox above was made using this amazing tutorial by [Jannik Boysen](https://medium.com/@jannik_boysen/procedural-skybox-shader-137f6b0cb77c).
