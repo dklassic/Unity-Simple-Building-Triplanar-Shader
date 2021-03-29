@@ -1,5 +1,6 @@
 # Unity Simple Building Triplanar Shader
  A Unity project with a one-size-fits-all triplanar building shader.
+ Interior mapping part using [GameDevGuide's Tutorial](https://www.youtube.com/watch?v=dUjNoIxQXAA).
  
 ## Requirements
 Unity 2020 LTS to open the project.
