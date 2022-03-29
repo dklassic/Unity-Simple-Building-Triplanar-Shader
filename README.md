@@ -3,8 +3,8 @@
  Interior mapping part using [GameDevGuide's Tutorial](https://www.youtube.com/watch?v=dUjNoIxQXAA).
  
 ## Requirements
-Unity 2020 LTS to open the project.
-I think it might work with older versions because no fancy shader graph node is used, but not tested.
+The shader is only validated on Unity 2020 LTS. I've recently discovered Unity 2021 will resolve the shader improperly and I don't really have a quick fix.
+I'll probably revisit this shader in the future maybe remake with actual shader code instead *sigh*
 
 ## Note
  The implementation is pretty quick and dirty so don't expect anything groundbreaking here, but if you need something that just works out of the box or just serves as a background, this shader should be pretty useful to you. Also I lack the actual knowledge to code shader, so this is generated with Shader Graph.
